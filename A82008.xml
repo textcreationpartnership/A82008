@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and full relation of His Majesty's safe arrival and reception at the Hague Sent in a letter from a person of quality, to his friend in London.</title>
+            <author>J. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82008</idno>
+            <idno type="STC">Wing D45A</idno>
+            <idno type="STC">ESTC R223040</idno>
+            <idno type="EEBO-CITATION">99896126</idno>
+            <idno type="PROQUEST">99896126</idno>
+            <idno type="VID">153891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2387:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and full relation of His Majesty's safe arrival and reception at the Hague Sent in a letter from a person of quality, to his friend in London.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Walter Davis in Amen Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.D.</note>
+                  <note>At end: Tuesday, Feb. 6. 1690. New Stile.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153891:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>A True and Full RELATION OF His MAJESTY's ſafe Arrival and Reception at the <hi>HAG<g ref="char:V">Ʋ</g>E.</hi>
+            </head>
+            <head type="sub">
+               <hi>Sent in a Letter from a Perſon of Quality, to his Friend in</hi> London.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>3. febr. 1690/1.</add>
+                  </date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Don't queſtion but you have heard of His Majeſty's being ſix<g ref="char:EOLhyphen"/>teen Hours in a Longboat amongſt the Ice, with great Hazard of His Perſon: He went off in a Fog, ſuppoſing himſelf to be upon the Coaſt, when he was at leaſt four Leagues off: He entred the <hi>Hague</hi> privately, and yeſterday made his Publick Entrance, being importuned to do it by the States; who had put themſelves to a pro<g ref="char:EOLhyphen"/>digious Expence, to entertain him with Splendor and Magnificence ſu<g ref="char:EOLhyphen"/>table to the high Character of ſo mighty a Monarch. Firſt, His own Coaches moved, then ſome of the Nobility, then ſome of the Nobi<g ref="char:EOLhyphen"/>lity of <hi>Holland</hi> very well mounted; then his own particular Coach, which was very plain, himſelf in a Cloak; and at his left hand ſate the Lord <hi>Overkirk,</hi> in the Back part of the Coach were the Duke of <hi>Ormond</hi> and the Lord <hi>Scarbrough,</hi> he was followed by the Duke of <hi>Nor<g ref="char:EOLhyphen"/>folk</hi>'s Coach, and the Reſt of the Nobility in order, the Footmen bare, and the Pages behind the Coaches, the Proceſſion began without the <hi>Hague,</hi> and moved through three Triumphal Arches; the beſt and laſt of which was before the Gates of the Court, 'tis of the <hi>Dorick</hi> Order, and built after the manner of <hi>Hadrian</hi>'s at <hi>Rome.</hi> I have ſent you the beſt of their Devices, and by them you may form to your ſelf a Con<g ref="char:EOLhyphen"/>jecture of the reſt.</p>
+            <p>In the Corniſh of the laſt Triumphal Arch, (which as I have be<g ref="char:EOLhyphen"/>fore ſignified to you, is the beſt of the Three) there is the following Inſcription in large Capital <hi>Roman</hi> Letters.</p>
+            <p>
+               <q xml:lang="lat">Pio, Felici, Inclyto,<lb/>
+                  <hi>Gulielmo</hi> Tertio, triumphanti<lb/>
+Patriae Patri<lb/>
+Gubernatori <hi>P. C. L P.</hi>
+                  <lb/>
+Reſtauratori Belgii Foederati,<lb/>
+Liberatori Angliae,<lb/>
+Servatori Scotiae,<lb/>
+Pacificatori Hiberniae,<lb/>
+Reduci.</q>
+            </p>
+            <p>In Engliſh thus:
+<q>To the Pious, Happy, Re<g ref="char:EOLhyphen"/>nowned <hi>William</hi> the Third, Tri<g ref="char:EOLhyphen"/>umphant, the Father of his Country, the Governour of <hi>P. C. L P.</hi> Reſtorer of the <hi>United Provinces,</hi> Deliverer of <hi>England,</hi> the Preſerver of <hi>Scotland,</hi> the Peace-Maker of <hi>Ireland,</hi> upon his ſafe Return.</q>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:153891:2"/>
+               <!-- PDF PAGE 19 -->
+Near this was another Device with three Crowns in a Scale, weighed down by a Sword with, this Motto:
+<q xml:lang="lat">
+                  <hi>Praemia non aequant.</hi>
+               </q>
+               <q xml:lang="eng">The Rewards do'nt equal his Service.</q>
+            </p>
+            <p>Then another of a young Eagle ſoaring towards the Sun in its Glory, with this:
+<q xml:lang="lat">
+                  <hi>Tener adverſis innititur alis.</hi>
+               </q>
+               <q xml:lang="eng">Tho young, he boldly ſoars againſt the Sun.</q>
+            </p>
+            <p>Another with a Phenix expiring, with this:
+<q xml:lang="eng">
+                  <hi>Praelucet Poſthuma proles.</hi>
+               </q>
+               <q xml:lang="eng">A Poſthumous Off-Spring out-ſhines.</q>
+            </p>
+            <p>Another with a Galley under ſail, with this:
+<q xml:lang="lat">
+                  <hi>Alter erit Tiphys.</hi>
+               </q>
+               <q xml:lang="eng">There ſhall be another <hi>Tiphys.</hi>
+               </q>
+            </p>
+            <p>Another of a Lyon and Unicorn, the latter holding his Horn over Toads and Serpents, with this:
+<q xml:lang="lat">
+                  <hi>Viruſque fugant, vireſque repellunt.</hi>
+               </q> 
+               <q xml:lang="eng">This Poiſon cures, and that does Force repel.</q>
+            </p>
+            <p>In one of the Atticks is this Inſcription:
+<q xml:lang="lat">
+                  <hi>Gulielmum</hi> Poſthumum<lb/>
+Britannorum Aurantiumque tertium<lb/>
+Patriae Spem,<lb/>
+                  <unclear>Reſp. Palladium.</unclear>
+               </q>
+               <q xml:lang="eng">
+                  <hi>William</hi> the Poſthumous, the third of that Name, of <hi>Britain</hi> and <hi>Orange,</hi> the Hope of his Country, the <hi>
+                     <unclear>Pal<g ref="char:EOLhyphen"/>ladium</unclear>
+                  </hi> 
+                  <unclear>of the Common Wealth</unclear>.</q>
+            </p>
+            <p>Another of <hi>Europa</hi> with her Arms diſplayed, and the Bull near her, with this Motto:
+<q xml:lang="lat">
+                  <hi>Eripiet Miſeram.</hi>
+               </q>
+               <q xml:lang="eng">He will deliver her from her Miſery.</q>
+            </p>
+            <p>The Fire-Works at Night were extremely curious, and the <hi>Burghers</hi> at the <hi>Hague</hi> were in Arms all the day. Here are no Princes here as yet, but the Duke of <hi>Brandenburgh;</hi> and he is at preſent <hi>incognito;</hi> The Dukes of <hi>Bavaria</hi> and <hi>Zell</hi> are daily expected. <hi>Tromp</hi> is made Ad<g ref="char:EOLhyphen"/>miral, to the General Satisfaction of the People here, who expect won<g ref="char:EOLhyphen"/>derful Performances from him this Summer. In ſhort, Sir, you may imagine what a Glorious Appearance we ſhall have here at the <hi>Hague,</hi> when the reſt of the Confederate Princes, who are now upon their Journy to this Place, are arrived; ſince the Figure we make at preſent is ſcarce capable of a Deſcription. I am in haſte, and muſt beg your Pardon for breaking off ſo abruptly.</p>
+            <closer>
+               <dateline>
+                  <date>Tueſday, Feb. 6. 1690. New Stile.</date>
+               </dateline>
+               <signed>Your moſt humble Servant.
+<hi>J. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Walter Davis</hi> in <hi>Amen Corner.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
